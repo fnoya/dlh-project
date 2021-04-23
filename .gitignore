@@ -1,0 +1,4 @@
+*.p
+*.csv
+*.npy
+settings.json
