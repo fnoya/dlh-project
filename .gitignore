@@ -3,3 +3,4 @@
 *.npy
 settings.json
 *.pt
+*.xlsx
