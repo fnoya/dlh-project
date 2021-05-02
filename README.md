@@ -17,11 +17,18 @@ The goal of the project is to design a deep learning model to predict the mortal
 
 ### File Description
 ### Model
-event
+- notes_events_network_join.ipynb
+### Data File
+- sql_queries.ipynb
+### Word Embedding Model
+- notebook_word2vec.ipynb
+### Project Report
+-
 
-
-
-
-
-Two RNN are constructed.  One on the clinical notes and the other on the events from selected chart events and lab events.
-The embedding resulting from the two RNNs are concatenated and feed into a fully connected layer to do the final classification.
+### Getting Started
+- Install Anacondas or Python 3, Pytorch, Pandas 1.15, Numpy, Gensim, NLTK
+- Get connected to AWS to use AWS Athena to build the tables following instructions in sql_queries.ipynb
+- Save data files as pickle
+- Load the word embedding model, note_vectors.kv. If you want to rerun the embedding model, run notebook_word2vec.ipynb
+- run the note_events_network_join.ipynb 
+- You can run individual network - **
