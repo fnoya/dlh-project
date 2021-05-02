@@ -1,11 +1,11 @@
 # dlh-project
 CS598 Deep Learning for Healthcare Project
-# Mortality Prediction of ICU Diabetic Patients Based on Clinical History and Clinical Notes- A Multi-Network Deep Learning Model
+## Mortality Prediction of ICU Diabetic Patients Based on Clinical History and Clinical Notes- A Multi-Network Deep Learning Model
 
-## Project Motivation
+### Project Motivation
 The goal of the project is to design a deep learning model to predict the mortality of an ICU diabetic patient after 48 hours of admission. The model is a multi-RNN architecture with an attention mechanism that engages clinical notes and specific clinical features to predict mortality.
 
-## Built With
+### Built With
 - Python 3
 - Pytorch
 - Pandas
@@ -15,7 +15,7 @@ The goal of the project is to design a deep learning model to predict the mortal
 - Gensim
 - NLTK
 
-## File Description
+### File Description
 ### Model
 event
 
