@@ -33,8 +33,16 @@ The goal of the project is to design a deep learning model to predict the mortal
 - run the note_events_network_join.ipynb #joint network- multi-RNN 
 - You can run individual network - **
 
+### Authors
+- Olabisi Balogun
+- Jorge Flores 
+- Francisco Noya 
+
 ### License
 
 MIT License
 
 Copyright (c) [2021] [Names**]
+
+### Acknowledgments
+- Choi, Bahadori, Kulas, Schuetz, Stewart and Sun. “RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism”. 2016
