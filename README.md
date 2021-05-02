@@ -30,5 +30,11 @@ The goal of the project is to design a deep learning model to predict the mortal
 - Get connected to AWS to use AWS Athena to build the tables following instructions in sql_queries.ipynb
 - Save data files as pickle
 - Load the word embedding model, note_vectors.kv. If you want to rerun the embedding model, run notebook_word2vec.ipynb
-- run the note_events_network_join.ipynb 
+- run the note_events_network_join.ipynb #joint network- multi-RNN 
 - You can run individual network - **
+
+### License
+
+MIT License
+
+Copyright (c) [2021] [Names**]
