@@ -46,3 +46,4 @@ Copyright (c) [2021] [Olabisi Balogun, Jorge Flores,Francisco Noya]
 
 ### Acknowledgments
 - Choi, Bahadori, Kulas, Schuetz, Stewart and Sun. “RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism”. 2016
+- Yang, H., Kuang, L., & Xia, F. (2021). “Multimodal temporal-clinical note network for mortality prediction”. Journal of Biomedical Semantics, 12(1), 1-14
