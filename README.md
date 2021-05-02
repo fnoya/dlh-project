@@ -42,7 +42,7 @@ The goal of the project is to design a deep learning model to predict the mortal
 
 MIT License
 
-Copyright (c) [2021] [Names**]
+Copyright (c) [2021] [Olabisi Balogun, Jorge Flores,Francisco Noya]
 
 ### Acknowledgments
 - Choi, Bahadori, Kulas, Schuetz, Stewart and Sun. “RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism”. 2016
