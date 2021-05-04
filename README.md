@@ -24,8 +24,7 @@ The goal of the project is to design a deep learning model to predict the mortal
 - sql_queries.ipynb
 ### Word Embedding Model
 - notebook_word2vec.ipynb
-### Project Report
--
+
 
 ### Getting Started
 - Obtain license for the MIMICIII database from https://physionet.org/content/mimiciii/1.4/
