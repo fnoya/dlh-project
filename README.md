@@ -17,7 +17,7 @@ The goal of the project is to design a deep learning model to predict the mortal
 
 ### File Description
 ### Main
--
+- main.ipynb
 ### Model
 - notes_events_network_join.ipynb
 ### Data File
