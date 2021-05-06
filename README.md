@@ -20,8 +20,10 @@ The goal of the project is to design a deep learning model to predict the mortal
 - main.ipynb
 ### Model
 - notes_events_network_join.ipynb
-### Data File
+### Data Preparation
 - sql_queries.ipynb
+- events_extraction.ipynb
+- notes_extraction.ipynb
 ### Word Embedding Model
 - notebook_word2vec.ipynb
 
