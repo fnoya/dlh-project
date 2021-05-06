@@ -46,7 +46,7 @@ The goal of the project is to design a deep learning model to predict the mortal
 
 ### License
 
-GNU License
+GNU General Public License
 
 Copyright (c) [2021] [Olabisi Balogun, Jorge Flores,Francisco Noya]
 
