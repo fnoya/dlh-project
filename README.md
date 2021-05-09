@@ -31,10 +31,10 @@ The goal of the project is to design a deep learning model to predict the mortal
 ### Getting Started
 - Obtain license for the MIMICIII database from https://physionet.org/content/mimiciii/1.4/
 - Helpful link on how to access MIMICIII database on AWS https://aws.amazon.com/blogs/big-data/perform-biomedical-informatics-without-a-database-using-mimic-iii-data-and-amazon-athena/
-- Install Anacondas or Python 3, Pytorch, Pandas 1.15, Numpy, Gensim, NLTK
+- Install Anaconda or Python 3, Pytorch, Pandas 1.15, Numpy, Gensim, NLTK
 - Get connected to AWS to use AWS Athena to build the tables following instructions in sql_queries.ipynb
 - Save data files as pickle
-- Load the word embedding model, note_vectors.kv. If you want to rerun the embedding model, run notebook_word2vec.ipynb
+- Load the word embedding model, note_vectors.kv. If you want to retrain the embedding model, run notebook_word2vec.ipynb
 - run events_extraction.ipynb
 - run notes_extraction.ipynb
 - run the main file to execute the model
