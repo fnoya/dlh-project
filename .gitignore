@@ -3,3 +3,9 @@
 *.npy
 settings.json
 *.pt
+*.log
+*.out
+*.aux
+*.gz
+__latexindent_temp.*
+*.pdf
